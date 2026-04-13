@@ -1,0 +1,31 @@
+{
+  "name": "Kowboy Fence - Website Review & Enhancement Strategy",
+  "short_name": "Kowboy Review",
+  "description": "Comprehensive website analysis and enhancement recommendations for Kowboy Fence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B5E20",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "kowboy_fence_service_map.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "kowboy_fence_service_map.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "label": "Service Area Map"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

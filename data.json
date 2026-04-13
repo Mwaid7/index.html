@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "Kowboy Fence - Website Review & Enhancement Strategy",
+    "generated": "2026-04-12",
+    "analyzer": "Orcha AI",
+    "version": "1.0.0",
+    "website_analyzed": "https://www.kowboyfence.com"
+  },
+  "company": {
+    "name": "Kowboy Fence",
+    "tagline": "Installation & Wholesale Experts",
+    "headquarters": "Nashville, TN",
+    "website": "https://www.kowboyfence.com",
+    "services": [
+      "Aluminum Fencing",
+      "Vinyl Fencing",
+      "Wood Privacy Fencing",
+      "Farm Fencing",
+      "Chainlink Fencing",
+      "Decks & Railing",
+      "Temporary Fence Rentals"
+    ],
+    "markets": ["Residential", "Commercial", "Wholesale"]
+  },
+  "serviceAreas": {
+    "headquarters": {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "coordinates": {
+        "lat": 36.1627,
+        "lng": -86.7816
+      }
+    },
+    "primary": [
+      {"state": "Tennessee", "abbrev": "TN", "coverage": "Statewide"},
+      {"state": "Kentucky", "abbrev": "KY", "coverage": "Statewide"},
+      {"state": "Alabama", "abbrev": "AL", "coverage": "Statewide"},
+      {"state": "Georgia", "abbrev": "GA", "coverage": "Statewide"},
+      {"state": "Mississippi", "abbrev": "MS", "coverage": "Statewide"}
+    ],
+    "extended": [
+      {"state": "North Carolina", "abbrev": "NC"},
+      {"state": "South Carolina", "abbrev": "SC"},
+      {"state": "Florida", "abbrev": "FL"},
+      {"state": "Virginia", "abbrev": "VA"},
+      {"state": "Arkansas", "abbrev": "AR"},
+      {"state": "Louisiana", "abbrev": "LA"}
+    ],
+    "wholesale": "Nationwide"
+  },
+  "assessment": {
+    "overallScore": 3.2,
+    "maxScore": 5,
+    "categories": [
+      {
+        "name": "Value Proposition",
+        "score": 4,
+        "maxScore": 5,
+        "notes": "Clear messaging - 'Installation & Wholesale Experts'"
+      },
+      {
+        "name": "Call-to-Action",
+        "score": 4,
+        "maxScore": 5,
+        "notes": "Good 'Instant Pricing' buttons, but could be stronger"
+      },
+      {
+        "name": "Service Clarity",
+        "score": 3,
+        "maxScore": 5,
+        "notes": "Lists services but lacks detail pages (404 errors found)"
+      },
+      {
+        "name": "Trust Signals",
+        "score": 3,
+        "maxScore": 5,
+        "notes": "Mentions 'satisfied clients' but no visible reviews"
+      },
+      {
+        "name": "SEO Structure",
+        "score": 2,
+        "maxScore": 5,
+        "notes": "Missing key optimization elements"
+      },
+      {
+        "name": "Mobile/UX",
+        "score": 3,
+        "maxScore": 5,
+        "notes": "Appears responsive but needs verification"
+      }
+    ]
+  },
+  "issues": {
+    "critical": [
+      {
+        "issue": "Broken Links",
+        "description": "/aluminum returns 404",
+        "solution": "Fix all product page links",
+        "priority": "High"
+      },
+      {
+        "issue": "Contact Page Empty",
+        "description": "Contact page has minimal content",
+        "solution": "Add contact form, phone, email, physical address",
+        "priority": "High"
+      },
+      {
+        "issue": "No Reviews Visible",
+        "description": "Mentions satisfied clients but shows no proof",
+        "solution": "Add Google Reviews widget or testimonial section",
+        "priority": "High"
+      },
+      {
+        "issue": "Missing Service Areas Page",
+        "description": "No dedicated page showing coverage",
+        "solution": "Add dedicated page with service area map",
+        "priority": "Medium"
+      }
+    ]
+  },
+  "seo": {
+    "recommendedTitle": "Fence Installation Nashville | #1 Rated Fence Company TN, KY, AL, GA | Kowboy Fence",
+    "recommendedDescription": "Top-rated fence company serving Nashville & the Southeast. Wood, vinyl, aluminum, farm & chainlink fencing. Free estimates. Residential, commercial & wholesale. Call today!",
+    "targetKeywords": [
+      "fence installation Nashville",
+      "fence company near me",
+      "wholesale fence supplier Southeast",
+      "vinyl fence Tennessee",
+      "farm fence Kentucky",
+      "commercial fencing Alabama",
+      "privacy fence installation",
+      "chainlink fence contractor",
+      "aluminum fence Nashville",
+      "fence financing options"
+    ],
+    "locationPages": [
+      {"url": "/fence-installation-nashville", "target": "Nashville, TN metro area"},
+      {"url": "/fence-company-louisville-ky", "target": "Louisville, Kentucky"},
+      {"url": "/fence-installation-birmingham-al", "target": "Birmingham, Alabama"},
+      {"url": "/fence-contractor-atlanta-ga", "target": "Atlanta, Georgia"},
+      {"url": "/fence-company-memphis-tn", "target": "Memphis, Tennessee"},
+      {"url": "/fence-installation-knoxville-tn", "target": "Knoxville, Tennessee"}
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kowboy Fence",
+      "description": "Top-rated fence installation and wholesale company",
+      "url": "https://www.kowboyfence.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nashville",
+        "addressRegion": "TN",
+        "addressCountry": "US"
+      },
+      "areaServed": ["Tennessee", "Kentucky", "Alabama", "Georgia", "Mississippi"],
+      "serviceType": ["Fence Installation", "Fence Wholesale", "Deck Installation"]
+    }
+  },
+  "conversionOptimization": [
+    {
+      "enhancement": "Add phone number prominently",
+      "reason": "60% of mobile users call directly"
+    },
+    {
+      "enhancement": "Financing callout in header",
+      "reason": "Reduces purchase hesitation"
+    },
+    {
+      "enhancement": "Before/After gallery",
+      "reason": "Visual proof of quality"
+    },
+    {
+      "enhancement": "Get Quote in 60 Seconds button",
+      "reason": "Creates urgency"
+    },
+    {
+      "enhancement": "Trust badges",
+      "reason": "BBB, licensed/insured, warranty icons"
+    },
+    {
+      "enhancement": "Service area map on homepage",
+      "reason": "Shows geographic reach immediately"
+    }
+  ],
+  "contentRecommendations": {
+    "newPages": [
+      {
+        "page": "Service Area Page",
+        "description": "Include the map, list all cities/counties served, add local testimonials"
+      },
+      {
+        "page": "Individual Product Pages",
+        "description": "Aluminum, Vinyl, Wood, Farm, Chainlink - with photos, pricing info, benefits"
+      },
+      {
+        "page": "Gallery/Portfolio",
+        "description": "Before/after photos organized by fence type, location, project size"
+      },
+      {
+        "page": "FAQ Page",
+        "description": "Common questions about cost, timeline, warranties, etc."
+      },
+      {
+        "page": "Blog",
+        "description": "SEO-focused content about fencing topics"
+      },
+      {
+        "page": "Wholesale Page",
+        "description": "Dedicated page for contractors and retailers"
+      }
+    ]
+  },
+  "quickWins": [
+    "Fix broken product page links (404 errors)",
+    "Add phone number to header - make it clickable for mobile",
+    "Add Google Reviews widget to homepage",
+    "Upload service area map to homepage",
+    "Complete contact page with form, address, phone, email, hours",
+    "Add 'Licensed & Insured' badge to footer",
+    "Add financing information prominently",
+    "Create simple FAQ section with 5-10 common questions"
+  ],
+  "timeline": [
+    {
+      "timeframe": "Week 1",
+      "tasks": "Fix 404 errors, add phone to header, complete contact page",
+      "expectedImpact": "Reduce bounce rate, increase calls"
+    },
+    {
+      "timeframe": "Week 2",
+      "tasks": "Add reviews widget, service area map, trust badges",
+      "expectedImpact": "Increase trust, improve conversions"
+    },
+    {
+      "timeframe": "Week 3-4",
+      "tasks": "Create individual product pages with full content",
+      "expectedImpact": "Improve SEO, reduce bounce rate"
+    },
+    {
+      "timeframe": "Month 2",
+      "tasks": "Create location pages, optimize Google Business Profile",
+      "expectedImpact": "Boost local search rankings"
+    },
+    {
+      "timeframe": "Month 3+",
+      "tasks": "Launch blog, build backlinks, ongoing SEO",
+      "expectedImpact": "Long-term traffic growth"
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Wholesale + Retail",
+      "description": "Unique positioning serving both homeowners AND contractors"
+    },
+    {
+      "advantage": "Regional Coverage",
+      "description": "Broader reach than most local competitors"
+    },
+    {
+      "advantage": "Financing Available",
+      "description": "Many competitors don't offer financing"
+    },
+    {
+      "advantage": "Instant Pricing Tool",
+      "description": "MySalesman integration for quick quotes"
+    }
+  ]
+}
